@@ -21,7 +21,9 @@
     "Disk full"
   ],
   "ignore_keywords": [
-    "FrequencyErrorCorrectionManager - Auto-Correcting Tuner PPM"
+    "FrequencyErrorCorrectionManager - Auto-Correcting Tuner PPM",
+	"ERROR i.g.d.s.t.sdrplay.api.SDRplay - Unable to load SDRplay API library from default install path.",
+	"Couldn't allocate channel. Requested channel cannot be provided by this channelizer"
   ],
   "monitor_audio": false,
   "check_interval_seconds": 60,
