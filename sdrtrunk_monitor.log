@@ -1,0 +1,328 @@
+2025-06-24 21:46:08,156 - INFO - Starting SDRTrunk Monitor for user: OhioRSN-Development
+2025-06-24 21:46:08,157 - INFO - SDRTrunk path: C:\Users\OhioRSN-Development\SDRTrunk
+2025-06-24 21:46:08,157 - INFO - Logs path: C:\Users\OhioRSN-Development\SDRTrunk\logs
+2025-06-24 21:46:08,157 - INFO - Recordings path: C:\Users\OhioRSN-Development\SDRTrunk\recordings
+2025-06-24 21:46:08,157 - INFO - Starting monitoring cycle
+2025-06-24 21:46:08,338 - WARNING - SDRTrunk is not running
+2025-06-24 21:46:08,339 - WARNING - Conditions not met for heartbeat - skipping
+2025-06-24 21:46:08,339 - INFO - Monitoring cycle completed
+2025-06-24 21:47:08,338 - INFO - Starting monitoring cycle
+2025-06-24 21:47:08,345 - WARNING - SDRTrunk is not running
+2025-06-24 21:47:08,345 - WARNING - Conditions not met for heartbeat - skipping
+2025-06-24 21:47:08,345 - INFO - Monitoring cycle completed
+2025-06-24 21:48:08,344 - INFO - Starting monitoring cycle
+2025-06-24 21:48:08,349 - WARNING - SDRTrunk is not running
+2025-06-24 21:48:08,349 - WARNING - Conditions not met for heartbeat - skipping
+2025-06-24 21:48:08,349 - INFO - Monitoring cycle completed
+2025-06-24 21:49:08,348 - INFO - Starting monitoring cycle
+2025-06-24 21:49:08,356 - WARNING - SDRTrunk is not running
+2025-06-24 21:49:08,356 - WARNING - Conditions not met for heartbeat - skipping
+2025-06-24 21:49:08,356 - INFO - Monitoring cycle completed
+2025-06-24 21:50:08,355 - INFO - Starting monitoring cycle
+2025-06-24 21:50:08,360 - WARNING - SDRTrunk is not running
+2025-06-24 21:50:08,360 - WARNING - Conditions not met for heartbeat - skipping
+2025-06-24 21:50:08,361 - INFO - Monitoring cycle completed
+2025-06-24 21:50:43,940 - INFO - Monitoring stopped by user
+2025-06-24 21:50:49,287 - INFO - Starting SDRTrunk Monitor for user: OhioRSN-Development
+2025-06-24 21:50:49,287 - INFO - SDRTrunk path: C:\Users\OhioRSN-Development\SDRTrunk
+2025-06-24 21:50:49,287 - INFO - Logs path: C:\Users\OhioRSN-Development\SDRTrunk\logs
+2025-06-24 21:50:49,288 - INFO - Recordings path: C:\Users\OhioRSN-Development\SDRTrunk\recordings
+2025-06-24 21:50:49,288 - INFO - Starting monitoring cycle
+2025-06-24 21:50:49,298 - ERROR - Error checking process: can only join an iterable
+2025-06-24 21:50:49,298 - WARNING - SDRTrunk is not running
+2025-06-24 21:50:49,298 - WARNING - Conditions not met for heartbeat - skipping
+2025-06-24 21:50:49,298 - INFO - Monitoring cycle completed
+2025-06-24 21:51:15,541 - INFO - Monitoring stopped by user
+2025-06-24 21:51:26,202 - INFO - Starting SDRTrunk Monitor for user: OhioRSN-Development
+2025-06-24 21:51:26,203 - INFO - SDRTrunk path: C:\Users\OhioRSN-Development\SDRTrunk
+2025-06-24 21:51:26,203 - INFO - Logs path: C:\Users\OhioRSN-Development\SDRTrunk\logs
+2025-06-24 21:51:26,203 - INFO - Recordings path: C:\Users\OhioRSN-Development\SDRTrunk\recordings
+2025-06-24 21:51:26,203 - INFO - Starting monitoring cycle
+2025-06-24 21:51:26,694 - WARNING - Log file not found: C:\Users\OhioRSN-Development\SDRTrunk\logs\sdrtrunk_app.txt
+2025-06-24 21:51:27,078 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000296B52E9D30>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-24 21:51:27,078 - INFO - Monitoring cycle completed
+2025-06-24 21:52:27,077 - INFO - Starting monitoring cycle
+2025-06-24 21:52:27,397 - WARNING - Log file not found: C:\Users\OhioRSN-Development\SDRTrunk\logs\sdrtrunk_app.txt
+2025-06-24 21:52:27,746 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000296B5329090>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-24 21:52:27,746 - INFO - Monitoring cycle completed
+2025-06-24 21:53:12,931 - INFO - Monitoring stopped by user
+2025-06-24 21:53:17,462 - INFO - Starting SDRTrunk Monitor for user: OhioRSN-Development
+2025-06-24 21:53:17,463 - INFO - SDRTrunk path: C:\Users\OhioRSN-Development\SDRTrunk
+2025-06-24 21:53:17,463 - INFO - Logs path: C:\Users\OhioRSN-Development\SDRTrunk\logs
+2025-06-24 21:53:17,463 - INFO - Recordings path: C:\Users\OhioRSN-Development\SDRTrunk\recordings
+2025-06-24 21:53:17,463 - INFO - Starting monitoring cycle
+2025-06-24 21:53:18,259 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F42A0D9E80>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-24 21:53:18,259 - INFO - Monitoring cycle completed
+2025-06-24 22:08:03,225 - INFO - Starting SDRTrunk Monitor for user: OhioRSN-Development
+2025-06-24 22:08:03,225 - INFO - SDRTrunk path: C:\Users\OhioRSN-Development\SDRTrunk
+2025-06-24 22:08:03,225 - INFO - Logs path: C:\Users\OhioRSN-Development\SDRTrunk\logs
+2025-06-24 22:08:03,225 - INFO - Recordings path: C:\Users\OhioRSN-Development\SDRTrunk\recordings
+2025-06-24 22:08:03,225 - INFO - Starting monitoring cycle
+2025-06-24 22:08:03,991 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000021A65CA9E80>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-24 22:08:03,991 - INFO - Monitoring cycle completed
+2025-06-29 22:41:15,889 - INFO - Starting SDRTrunk Monitor for user: OhioRSN-Development
+2025-06-29 22:41:15,890 - INFO - SDRTrunk path: C:\Users\OhioRSN-Development\SDRTrunk
+2025-06-29 22:41:15,890 - INFO - Logs path: C:\Users\OhioRSN-Development\SDRTrunk\logs
+2025-06-29 22:41:15,890 - INFO - Recordings path: C:\Users\OhioRSN-Development\SDRTrunk\recordings
+2025-06-29 22:41:15,890 - INFO - Starting monitoring cycle
+2025-06-29 22:41:15,890 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:41:16,584 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002D9552A9E80>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:41:16,584 - INFO - Monitoring cycle completed
+2025-06-29 22:42:16,582 - INFO - Starting monitoring cycle
+2025-06-29 22:42:16,583 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:42:17,209 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002D95533F610>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:42:17,209 - INFO - Monitoring cycle completed
+2025-06-29 22:43:17,207 - INFO - Starting monitoring cycle
+2025-06-29 22:43:17,207 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:43:17,781 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002D9552EA490>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:43:17,781 - INFO - Monitoring cycle completed
+2025-06-29 22:44:17,779 - INFO - Starting monitoring cycle
+2025-06-29 22:44:17,779 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:44:18,311 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002D9552EA0D0>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:44:18,311 - INFO - Monitoring cycle completed
+2025-06-29 22:45:18,309 - INFO - Starting monitoring cycle
+2025-06-29 22:45:18,309 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:45:18,801 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002D95533C190>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:45:18,801 - INFO - Monitoring cycle completed
+2025-06-29 22:45:55,659 - INFO - Monitoring stopped by user
+2025-06-29 22:45:59,524 - INFO - Starting SDRTrunk Monitor for user: OhioRSN-Development
+2025-06-29 22:45:59,524 - INFO - SDRTrunk path: C:\Users\OhioRSN-Development\SDRTrunk
+2025-06-29 22:45:59,524 - INFO - Logs path: C:\Users\OhioRSN-Development\SDRTrunk\logs
+2025-06-29 22:45:59,524 - INFO - Recordings path: C:\Users\OhioRSN-Development\SDRTrunk\recordings
+2025-06-29 22:45:59,524 - INFO - Starting monitoring cycle
+2025-06-29 22:45:59,524 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:45:59,904 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:46:00,165 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:46:00,175 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025358429E80>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:46:00,175 - INFO - Monitoring cycle completed
+2025-06-29 22:47:00,174 - INFO - Starting monitoring cycle
+2025-06-29 22:47:00,174 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:47:00,442 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:47:00,722 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:47:00,749 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000253584CAC10>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:47:00,749 - INFO - Monitoring cycle completed
+2025-06-29 22:48:00,747 - INFO - Starting monitoring cycle
+2025-06-29 22:48:00,747 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:48:01,042 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:48:01,365 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:48:01,402 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002535846AD50>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:48:01,402 - INFO - Monitoring cycle completed
+2025-06-29 22:49:01,401 - INFO - Starting monitoring cycle
+2025-06-29 22:49:01,401 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:49:01,723 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:49:01,991 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:49:02,001 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002535846A990>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:49:02,001 - INFO - Monitoring cycle completed
+2025-06-29 22:50:01,999 - INFO - Starting monitoring cycle
+2025-06-29 22:50:02,000 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:50:02,248 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:50:02,484 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:50:02,491 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000253584CB9D0>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:50:02,491 - INFO - Monitoring cycle completed
+2025-06-29 22:51:02,489 - INFO - Starting monitoring cycle
+2025-06-29 22:51:02,489 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:51:02,752 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:51:03,012 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:51:03,018 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000253584CB250>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:51:03,019 - INFO - Monitoring cycle completed
+2025-06-29 22:52:00,477 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:52:00,746 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:52:03,017 - INFO - Starting monitoring cycle
+2025-06-29 22:52:03,017 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:52:03,283 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:52:03,544 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:52:03,562 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000253584C9310>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:52:03,562 - INFO - Monitoring cycle completed
+2025-06-29 22:52:31,533 - INFO - Found process matching configured name 'sdrtrunk': PID 36272
+2025-06-29 22:52:31,908 - INFO - Found process matching configured name 'sdrtrunk': PID 36272
+2025-06-29 22:53:03,560 - INFO - Starting monitoring cycle
+2025-06-29 22:53:03,561 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:53:03,791 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:53:04,015 - INFO - Found process matching configured name 'sdrtrunk': PID 6808
+2025-06-29 22:53:04,022 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000253584CBB10>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:53:04,022 - INFO - Monitoring cycle completed
+2025-06-29 22:53:41,534 - INFO - Monitoring stopped by user
+2025-06-29 22:53:46,807 - INFO - Starting SDRTrunk Monitor for user: OhioRSN-Development
+2025-06-29 22:53:46,807 - INFO - SDRTrunk path: C:\Users\OhioRSN-Development\SDRTrunk
+2025-06-29 22:53:46,807 - INFO - Logs path: C:\Users\OhioRSN-Development\SDRTrunk\logs
+2025-06-29 22:53:46,807 - INFO - Recordings path: C:\Users\OhioRSN-Development\SDRTrunk\recordings
+2025-06-29 22:53:46,807 - INFO - Starting monitoring cycle
+2025-06-29 22:53:46,807 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:53:47,268 - INFO - SDRTrunk not found. Checked 88 processes.
+2025-06-29 22:53:47,268 - WARNING - SDRTrunk is not running
+2025-06-29 22:53:47,268 - WARNING - Conditions not met for heartbeat - skipping
+2025-06-29 22:53:47,268 - INFO - Monitoring cycle completed
+2025-06-29 22:53:59,302 - INFO - Monitoring stopped by user
+2025-06-29 22:54:02,811 - INFO - Starting SDRTrunk Monitor for user: OhioRSN-Development
+2025-06-29 22:54:02,811 - INFO - SDRTrunk path: C:\Users\OhioRSN-Development\SDRTrunk
+2025-06-29 22:54:02,811 - INFO - Logs path: C:\Users\OhioRSN-Development\SDRTrunk\logs
+2025-06-29 22:54:02,812 - INFO - Recordings path: C:\Users\OhioRSN-Development\SDRTrunk\recordings
+2025-06-29 22:54:02,812 - INFO - Starting monitoring cycle
+2025-06-29 22:54:02,812 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:54:03,064 - INFO - Found SDRTrunk process: PID 4248, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 22:54:03,247 - INFO - Found SDRTrunk process: PID 4248, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 22:54:03,260 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F415539E80>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:54:03,260 - INFO - Monitoring cycle completed
+2025-06-29 22:55:03,258 - INFO - Starting monitoring cycle
+2025-06-29 22:55:03,258 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:55:03,635 - INFO - SDRTrunk not found. Checked 88 processes.
+2025-06-29 22:55:03,635 - WARNING - SDRTrunk is not running
+2025-06-29 22:55:03,635 - WARNING - Conditions not met for heartbeat - skipping
+2025-06-29 22:55:03,635 - INFO - Monitoring cycle completed
+2025-06-29 22:56:03,633 - INFO - Starting monitoring cycle
+2025-06-29 22:56:03,634 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:56:03,960 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 22:56:04,282 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 22:56:04,292 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F415625810>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:56:04,292 - INFO - Monitoring cycle completed
+2025-06-29 22:57:04,290 - INFO - Starting monitoring cycle
+2025-06-29 22:57:04,290 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:57:04,617 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 22:57:04,985 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 22:57:04,994 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F4155AD450>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:57:04,994 - INFO - Monitoring cycle completed
+2025-06-29 22:58:04,993 - INFO - Starting monitoring cycle
+2025-06-29 22:58:04,993 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:58:05,297 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 22:58:05,602 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 22:58:05,608 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F4155AE0D0>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:58:05,609 - INFO - Monitoring cycle completed
+2025-06-29 22:59:05,607 - INFO - Starting monitoring cycle
+2025-06-29 22:59:05,608 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:59:06,245 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 22:59:06,654 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 22:59:06,660 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F4155ADF90>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 22:59:06,660 - INFO - Monitoring cycle completed
+2025-06-29 22:59:11,952 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 22:59:12,327 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 22:59:12,327 - INFO - Checking log file: C:\Users\OhioRSN-Development\SDRTrunk\logs\sdrtrunk_app.log
+2025-06-29 22:59:12,329 - INFO - Found error keyword 'ERROR' in line: 20250629 225100.123 [AWT-EventQueue-0] ERROR i.g.d.audio.AudioManager - Audio error detected  [37MB/56MB 67%]
+2025-06-29 22:59:12,329 - INFO - Found error keyword 'No Tuner Available' in line: 20250629 225101.456 [AWT-EventQueue-0] CRITICAL i.g.d.tuner.TunerManager - No Tuner Available  [37MB/56MB 67%]
+2025-06-29 22:59:12,329 - INFO - Found error keyword 'ERROR' in line: 20250629 225102.789 [AWT-EventQueue-0] Exception i.g.d.source.SourceManager - Error getting source  [37MB/56MB 67%]
+2025-06-29 22:59:12,329 - INFO - Found error keyword 'ERROR' in line: 20250629 225103.111 [AWT-EventQueue-0] ERROR i.g.d.usb.USBManager - USB error: Pipe error  [37MB/56MB 67%]
+2025-06-29 22:59:12,330 - INFO - Found error keyword 'ERROR' in line: 20250629 225104.222 [AWT-EventQueue-0] ERROR i.g.d.audio.AudioManager - Buffer overflow  [37MB/56MB 67%]
+2025-06-29 22:59:12,330 - INFO - Found error keyword 'ERROR' in line: 20250629 225105.333 [AWT-EventQueue-0] ERROR i.g.d.disk.DiskManager - Disk full  [37MB/56MB 67%]
+2025-06-29 22:59:12,330 - INFO - Found error keyword 'ERROR' in line: 20250629 225106.444 [AWT-EventQueue-0] ERROR i.g.d.codec.AMBECodec - AMBE CODEC failed  [37MB/56MB 67%]
+2025-06-29 22:59:12,330 - INFO - Found error keyword 'ERROR' in line: 20250629 225107.555 [AWT-EventQueue-0] ERROR i.g.d.audio.JMBEManager - JMBE audio conversion library failed  [37MB/56MB 67%]
+2025-06-29 22:59:12,330 - INFO - Found error keyword 'ERROR' in line: 20250629 225108.666 [AWT-EventQueue-0] ERROR i.g.d.filter.FilterManager - Couldn't design final output low pass filter  [37MB/56MB 67%]
+2025-06-29 22:59:12,330 - INFO - Found error keyword 'ERROR' in line: 20250629 225109.777 [AWT-EventQueue-0] ERROR i.g.d.log.ApplicationLog - NullPointerException  [37MB/56MB 67%]
+2025-06-29 22:59:12,331 - INFO - Found error keyword 'ERROR' in line: 20250629 225110.888 [AWT-EventQueue-0] ERROR i.g.d.log.ApplicationLog - IndexOutOfBoundsException  [37MB/56MB 67%]
+2025-06-29 22:59:12,331 - INFO - Log check complete: 130 total lines, 130 from today, 11 errors found
+2025-06-29 22:59:12,332 - WARNING - Found 11 errors in log file
+2025-06-29 22:59:12,332 - WARNING - Error: 20250629 225100.123 [AWT-EventQueue-0] ERROR i.g.d.audio.AudioManager - Audio error detected  [37MB/56MB 67%]
+2025-06-29 22:59:12,332 - WARNING - Error: 20250629 225101.456 [AWT-EventQueue-0] CRITICAL i.g.d.tuner.TunerManager - No Tuner Available  [37MB/56MB 67%]
+2025-06-29 22:59:12,332 - WARNING - Error: 20250629 225102.789 [AWT-EventQueue-0] Exception i.g.d.source.SourceManager - Error getting source  [37MB/56MB 67%]
+2025-06-29 22:59:23,685 - INFO - Monitoring stopped by user
+2025-06-29 22:59:28,089 - INFO - Starting SDRTrunk Monitor for user: OhioRSN-Development
+2025-06-29 22:59:28,089 - INFO - SDRTrunk path: C:\Users\OhioRSN-Development\SDRTrunk
+2025-06-29 22:59:28,089 - INFO - Logs path: C:\Users\OhioRSN-Development\SDRTrunk\logs
+2025-06-29 22:59:28,089 - INFO - Recordings path: C:\Users\OhioRSN-Development\SDRTrunk\recordings
+2025-06-29 22:59:28,089 - INFO - Starting monitoring cycle
+2025-06-29 22:59:28,089 - INFO - Audio monitoring is disabled by config.
+2025-06-29 22:59:28,565 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 22:59:28,566 - INFO - Checking log file: C:\Users\OhioRSN-Development\SDRTrunk\logs\sdrtrunk_app.log
+2025-06-29 22:59:28,568 - INFO - Found error keyword 'ERROR' in line: 20250629 225100.123 [AWT-EventQueue-0] ERROR i.g.d.audio.AudioManager - Audio error detected  [37MB/56MB 67%]
+2025-06-29 22:59:28,568 - INFO - Found error keyword 'No Tuner Available' in line: 20250629 225101.456 [AWT-EventQueue-0] CRITICAL i.g.d.tuner.TunerManager - No Tuner Available  [37MB/56MB 67%]
+2025-06-29 22:59:28,568 - INFO - Found error keyword 'ERROR' in line: 20250629 225102.789 [AWT-EventQueue-0] Exception i.g.d.source.SourceManager - Error getting source  [37MB/56MB 67%]
+2025-06-29 22:59:28,568 - INFO - Found error keyword 'ERROR' in line: 20250629 225103.111 [AWT-EventQueue-0] ERROR i.g.d.usb.USBManager - USB error: Pipe error  [37MB/56MB 67%]
+2025-06-29 22:59:28,568 - INFO - Found error keyword 'ERROR' in line: 20250629 225104.222 [AWT-EventQueue-0] ERROR i.g.d.audio.AudioManager - Buffer overflow  [37MB/56MB 67%]
+2025-06-29 22:59:28,568 - INFO - Found error keyword 'ERROR' in line: 20250629 225105.333 [AWT-EventQueue-0] ERROR i.g.d.disk.DiskManager - Disk full  [37MB/56MB 67%]
+2025-06-29 22:59:28,568 - INFO - Found error keyword 'ERROR' in line: 20250629 225106.444 [AWT-EventQueue-0] ERROR i.g.d.codec.AMBECodec - AMBE CODEC failed  [37MB/56MB 67%]
+2025-06-29 22:59:28,569 - INFO - Found error keyword 'ERROR' in line: 20250629 225107.555 [AWT-EventQueue-0] ERROR i.g.d.audio.JMBEManager - JMBE audio conversion library failed  [37MB/56MB 67%]
+2025-06-29 22:59:28,569 - INFO - Found error keyword 'ERROR' in line: 20250629 225108.666 [AWT-EventQueue-0] ERROR i.g.d.filter.FilterManager - Couldn't design final output low pass filter  [37MB/56MB 67%]
+2025-06-29 22:59:28,569 - INFO - Found error keyword 'ERROR' in line: 20250629 225109.777 [AWT-EventQueue-0] ERROR i.g.d.log.ApplicationLog - NullPointerException  [37MB/56MB 67%]
+2025-06-29 22:59:28,569 - INFO - Found error keyword 'ERROR' in line: 20250629 225110.888 [AWT-EventQueue-0] ERROR i.g.d.log.ApplicationLog - IndexOutOfBoundsException  [37MB/56MB 67%]
+2025-06-29 22:59:28,570 - INFO - Log check complete: 130 total lines, 130 from today, 11 errors found
+2025-06-29 22:59:28,570 - WARNING - Found 11 errors in log file
+2025-06-29 22:59:28,570 - WARNING - Error: 20250629 225100.123 [AWT-EventQueue-0] ERROR i.g.d.audio.AudioManager - Audio error detected  [37MB/56MB 67%]
+2025-06-29 22:59:28,570 - WARNING - Error: 20250629 225101.456 [AWT-EventQueue-0] CRITICAL i.g.d.tuner.TunerManager - No Tuner Available  [37MB/56MB 67%]
+2025-06-29 22:59:28,570 - WARNING - Error: 20250629 225102.789 [AWT-EventQueue-0] Exception i.g.d.source.SourceManager - Error getting source  [37MB/56MB 67%]
+2025-06-29 22:59:28,570 - WARNING - Conditions not met for heartbeat - skipping
+2025-06-29 22:59:28,570 - INFO - Monitoring cycle completed
+2025-06-29 23:00:28,569 - INFO - Starting monitoring cycle
+2025-06-29 23:00:28,569 - INFO - Audio monitoring is disabled by config.
+2025-06-29 23:00:28,894 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 23:00:28,895 - INFO - Checking log file: C:\Users\OhioRSN-Development\SDRTrunk\logs\sdrtrunk_app.log
+2025-06-29 23:00:28,895 - INFO - Found error keyword 'ERROR' in line: 20250629 225100.123 [AWT-EventQueue-0] ERROR i.g.d.audio.AudioManager - Audio error detected  [37MB/56MB 67%]
+2025-06-29 23:00:28,896 - INFO - Found error keyword 'No Tuner Available' in line: 20250629 225101.456 [AWT-EventQueue-0] CRITICAL i.g.d.tuner.TunerManager - No Tuner Available  [37MB/56MB 67%]
+2025-06-29 23:00:28,896 - INFO - Found error keyword 'ERROR' in line: 20250629 225102.789 [AWT-EventQueue-0] Exception i.g.d.source.SourceManager - Error getting source  [37MB/56MB 67%]
+2025-06-29 23:00:28,896 - INFO - Found error keyword 'ERROR' in line: 20250629 225103.111 [AWT-EventQueue-0] ERROR i.g.d.usb.USBManager - USB error: Pipe error  [37MB/56MB 67%]
+2025-06-29 23:00:28,896 - INFO - Found error keyword 'ERROR' in line: 20250629 225104.222 [AWT-EventQueue-0] ERROR i.g.d.audio.AudioManager - Buffer overflow  [37MB/56MB 67%]
+2025-06-29 23:00:28,896 - INFO - Found error keyword 'ERROR' in line: 20250629 225105.333 [AWT-EventQueue-0] ERROR i.g.d.disk.DiskManager - Disk full  [37MB/56MB 67%]
+2025-06-29 23:00:28,896 - INFO - Found error keyword 'ERROR' in line: 20250629 225106.444 [AWT-EventQueue-0] ERROR i.g.d.codec.AMBECodec - AMBE CODEC failed  [37MB/56MB 67%]
+2025-06-29 23:00:28,896 - INFO - Found error keyword 'ERROR' in line: 20250629 225107.555 [AWT-EventQueue-0] ERROR i.g.d.audio.JMBEManager - JMBE audio conversion library failed  [37MB/56MB 67%]
+2025-06-29 23:00:28,896 - INFO - Found error keyword 'ERROR' in line: 20250629 225108.666 [AWT-EventQueue-0] ERROR i.g.d.filter.FilterManager - Couldn't design final output low pass filter  [37MB/56MB 67%]
+2025-06-29 23:00:28,896 - INFO - Found error keyword 'ERROR' in line: 20250629 225109.777 [AWT-EventQueue-0] ERROR i.g.d.log.ApplicationLog - NullPointerException  [37MB/56MB 67%]
+2025-06-29 23:00:28,896 - INFO - Found error keyword 'ERROR' in line: 20250629 225110.888 [AWT-EventQueue-0] ERROR i.g.d.log.ApplicationLog - IndexOutOfBoundsException  [37MB/56MB 67%]
+2025-06-29 23:00:28,897 - INFO - Log check complete: 130 total lines, 130 from today, 11 errors found
+2025-06-29 23:00:28,897 - WARNING - Found 11 errors in log file
+2025-06-29 23:00:28,897 - WARNING - Error: 20250629 225100.123 [AWT-EventQueue-0] ERROR i.g.d.audio.AudioManager - Audio error detected  [37MB/56MB 67%]
+2025-06-29 23:00:28,897 - WARNING - Error: 20250629 225101.456 [AWT-EventQueue-0] CRITICAL i.g.d.tuner.TunerManager - No Tuner Available  [37MB/56MB 67%]
+2025-06-29 23:00:28,897 - WARNING - Error: 20250629 225102.789 [AWT-EventQueue-0] Exception i.g.d.source.SourceManager - Error getting source  [37MB/56MB 67%]
+2025-06-29 23:00:28,898 - WARNING - Conditions not met for heartbeat - skipping
+2025-06-29 23:00:28,898 - INFO - Monitoring cycle completed
+2025-06-29 23:01:04,738 - INFO - Monitoring stopped by user
+2025-06-29 23:01:55,998 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 23:01:56,383 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 23:01:56,383 - INFO - Checking log file: C:\Users\OhioRSN-Development\SDRTrunk\logs\sdrtrunk_app.log
+2025-06-29 23:01:56,386 - INFO - Log check complete: 130 total lines, 0 after monitor start, 0 errors found
+2025-06-29 23:02:04,704 - INFO - Starting SDRTrunk Monitor for user: OhioRSN-Development
+2025-06-29 23:02:04,704 - INFO - Monitor started at: 2025-06-29 23:02:04
+2025-06-29 23:02:04,705 - INFO - SDRTrunk path: C:\Users\OhioRSN-Development\SDRTrunk
+2025-06-29 23:02:04,705 - INFO - Logs path: C:\Users\OhioRSN-Development\SDRTrunk\logs
+2025-06-29 23:02:04,705 - INFO - Recordings path: C:\Users\OhioRSN-Development\SDRTrunk\recordings
+2025-06-29 23:02:04,705 - INFO - Starting monitoring cycle
+2025-06-29 23:02:04,705 - INFO - Audio monitoring is disabled by config.
+2025-06-29 23:02:05,163 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 23:02:05,163 - INFO - Checking log file: C:\Users\OhioRSN-Development\SDRTrunk\logs\sdrtrunk_app.log
+2025-06-29 23:02:05,167 - INFO - Log check complete: 130 total lines, 0 after monitor start, 0 errors found
+2025-06-29 23:02:05,478 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 23:02:05,499 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000212763E9E80>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 23:02:05,499 - INFO - Monitoring cycle completed
+2025-06-29 23:03:05,498 - INFO - Starting monitoring cycle
+2025-06-29 23:03:05,498 - INFO - Audio monitoring is disabled by config.
+2025-06-29 23:03:05,831 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 23:03:05,831 - INFO - Checking log file: C:\Users\OhioRSN-Development\SDRTrunk\logs\sdrtrunk_app.log
+2025-06-29 23:03:05,833 - INFO - Log check complete: 130 total lines, 0 after monitor start, 0 errors found
+2025-06-29 23:03:06,167 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 23:03:06,185 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000021276499810>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 23:03:06,185 - INFO - Monitoring cycle completed
+2025-06-29 23:04:06,183 - INFO - Starting monitoring cycle
+2025-06-29 23:04:06,184 - INFO - Audio monitoring is disabled by config.
+2025-06-29 23:04:06,489 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 23:04:06,489 - INFO - Checking log file: C:\Users\OhioRSN-Development\SDRTrunk\logs\sdrtrunk_app.log
+2025-06-29 23:04:06,491 - INFO - Log check complete: 140 total lines, 0 after monitor start, 0 errors found
+2025-06-29 23:04:06,791 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 23:04:06,809 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000021276428550>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 23:04:06,809 - INFO - Monitoring cycle completed
+2025-06-29 23:05:06,808 - INFO - Starting monitoring cycle
+2025-06-29 23:05:06,808 - INFO - Audio monitoring is disabled by config.
+2025-06-29 23:05:07,132 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 23:05:07,132 - INFO - Checking log file: C:\Users\OhioRSN-Development\SDRTrunk\logs\sdrtrunk_app.log
+2025-06-29 23:05:07,134 - INFO - Log check complete: 140 total lines, 0 after monitor start, 0 errors found
+2025-06-29 23:05:07,454 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 23:05:07,479 - ERROR - Error sending heartbeat: HTTPSConnectionPool(host='your-heartbeat-endpoint.com', port=443): Max retries exceeded with url: /heartbeat (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002127642A990>: Failed to resolve 'your-heartbeat-endpoint.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-29 23:05:07,480 - INFO - Monitoring cycle completed
+2025-06-29 23:06:07,479 - INFO - Starting monitoring cycle
+2025-06-29 23:06:07,479 - INFO - Audio monitoring is disabled by config.
+2025-06-29 23:06:07,787 - INFO - Found SDRTrunk process: PID 22564, CMD: c:\users\ohiorsn-development\downloads\sdr-trunk-windows-x86_64-v0.6.1\sdr-trunk-windows-x86_64-v0.6...
+2025-06-29 23:06:07,787 - INFO - Checking log file: C:\Users\OhioRSN-Development\SDRTrunk\logs\sdrtrunk_app.log
+2025-06-29 23:06:07,789 - INFO - Found error keyword 'ERROR' in line: 20250629 230600.123 [AWT-EventQueue-0] ERROR i.g.d.audio.AudioManager - Audio error detected  [37MB/56MB 67%]
+2025-06-29 23:06:07,789 - INFO - Found error keyword 'No Tuner Available' in line: 20250629 230601.456 [AWT-EventQueue-0] CRITICAL i.g.d.tuner.TunerManager - No Tuner Available  [37MB/56MB 67%]
+2025-06-29 23:06:07,789 - INFO - Found error keyword 'ERROR' in line: 20250629 230602.789 [AWT-EventQueue-0] Exception i.g.d.source.SourceManager - Error getting source  [37MB/56MB 67%]
+2025-06-29 23:06:07,789 - INFO - Found error keyword 'ERROR' in line: 20250629 230603.111 [AWT-EventQueue-0] ERROR i.g.d.usb.USBManager - USB error: Pipe error  [37MB/56MB 67%]
+2025-06-29 23:06:07,790 - INFO - Found error keyword 'ERROR' in line: 20250629 230604.222 [AWT-EventQueue-0] ERROR i.g.d.audio.AudioManager - Buffer overflow  [37MB/56MB 67%]
+2025-06-29 23:06:07,790 - INFO - Found error keyword 'ERROR' in line: 20250629 230605.333 [AWT-EventQueue-0] ERROR i.g.d.disk.DiskManager - Disk full  [37MB/56MB 67%]
+2025-06-29 23:06:07,790 - INFO - Found error keyword 'ERROR' in line: 20250629 230606.444 [AWT-EventQueue-0] ERROR i.g.d.codec.AMBECodec - AMBE CODEC failed  [37MB/56MB 67%]
+2025-06-29 23:06:07,790 - INFO - Found error keyword 'ERROR' in line: 20250629 230607.555 [AWT-EventQueue-0] ERROR i.g.d.audio.JMBEManager - JMBE audio conversion library failed  [37MB/56MB 67%]
+2025-06-29 23:06:07,790 - INFO - Found error keyword 'ERROR' in line: 20250629 230608.666 [AWT-EventQueue-0] ERROR i.g.d.filter.FilterManager - Couldn't design final output low pass filter  [37MB/56MB 67%]
+2025-06-29 23:06:07,790 - INFO - Found error keyword 'ERROR' in line: 20250629 230609.777 [AWT-EventQueue-0] ERROR i.g.d.log.ApplicationLog - NullPointerException  [37MB/56MB 67%]
+2025-06-29 23:06:07,790 - INFO - Found error keyword 'ERROR' in line: 20250629 230610.888 [AWT-EventQueue-0] ERROR i.g.d.log.ApplicationLog - IndexOutOfBoundsException  [37MB/56MB 67%]
+2025-06-29 23:06:07,790 - INFO - Log check complete: 141 total lines, 11 after monitor start, 11 errors found
+2025-06-29 23:06:07,790 - WARNING - Found 11 errors in log file
+2025-06-29 23:06:07,791 - WARNING - Error: 20250629 230600.123 [AWT-EventQueue-0] ERROR i.g.d.audio.AudioManager - Audio error detected  [37MB/56MB 67%]
+2025-06-29 23:06:07,791 - WARNING - Error: 20250629 230601.456 [AWT-EventQueue-0] CRITICAL i.g.d.tuner.TunerManager - No Tuner Available  [37MB/56MB 67%]
+2025-06-29 23:06:07,791 - WARNING - Error: 20250629 230602.789 [AWT-EventQueue-0] Exception i.g.d.source.SourceManager - Error getting source  [37MB/56MB 67%]
+2025-06-29 23:06:07,791 - WARNING - Conditions not met for heartbeat - skipping
+2025-06-29 23:06:07,791 - INFO - Monitoring cycle completed
+2025-06-29 23:06:14,362 - INFO - Monitoring stopped by user

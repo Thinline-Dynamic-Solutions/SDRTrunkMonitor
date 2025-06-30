@@ -1,0 +1,37 @@
+{
+  "heartbeat_url": "https://your-heartbeat-endpoint.com/heartbeat",
+  "error_keywords": [
+    "ERROR",
+    "Exception",
+    "No Tuner Available",
+    "Error getting source",
+    "failed",
+    "failed to load",
+    "Pipe error",
+    "USB error",
+    "LibUsbException",
+    "NullPointerException",
+    "IndexOutOfBoundsException",
+    "Couldn't design final output low pass filter",
+    "AMBE CODEC failed",
+    "JMBE audio conversion library failed",
+    "No audio",
+    "Audio error",
+    "Buffer overflow",
+    "Disk full"
+  ],
+  "ignore_keywords": [
+    "FrequencyErrorCorrectionManager - Auto-Correcting Tuner PPM"
+  ],
+  "monitor_audio": false,
+  "check_interval_seconds": 60,
+  "audio_quality_threshold_seconds": 5.0,
+  "max_audio_age_hours": 4,
+  "process_name": "sdrtrunk",
+  "telegram": {
+    "enabled": false,
+    "bot_token": "your_telegram_bot_token_here",
+    "channel_id": "your_telegram_channel_id_here",
+    "computer_name": "SDRTrunk-Monitor"
+  }
+} 
