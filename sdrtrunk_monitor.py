@@ -20,7 +20,7 @@ from typing import Dict, List, Optional
 
 # Configure logging
 logging.basicConfig(
-    level=logging.INFO,
+    level=logging.DEBUG,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
         logging.FileHandler('sdrtrunk_monitor.log'),
@@ -160,6 +160,9 @@ class SDRTrunkMonitor:
             ignore_keywords = self.config.get("ignore_keywords", [])
             lines_checked = 0
             lines_after_start = 0
+            ignored_lines = 0
+            
+            logger.info(f"Ignore keywords: {ignore_keywords}")
             
             with open(log_file, 'r', encoding='utf-8', errors='ignore') as f:
                 for line in f:
@@ -169,14 +172,20 @@ class SDRTrunkMonitor:
                         lines_after_start += 1
                         # Skip if any ignore keyword is present
                         if any(ignore_kw.lower() in line.lower() for ignore_kw in ignore_keywords):
+                            ignored_lines += 1
+                            logger.debug(f"Ignoring line: {line.strip()[:100]}...")
                             continue
                         for keyword in self.config["error_keywords"]:
                             if keyword.lower() in line.lower():
                                 logger.info(f"Found error keyword '{keyword}' in line: {line.strip()}")
                                 errors.append(line.strip())
                                 break
+                        else:
+                            # If no error keyword found, log it for debugging
+                            if "ERROR" in line:
+                                logger.debug(f"Line contains ERROR but no specific keyword matched: {line.strip()[:100]}...")
             
-            logger.info(f"Log check complete: {lines_checked} total lines, {lines_after_start} after monitor start, {len(errors)} errors found")
+            logger.info(f"Log check complete: {lines_checked} total lines, {lines_after_start} after monitor start, {ignored_lines} ignored, {len(errors)} errors found")
             
         except Exception as e:
             logger.error(f"Error reading log file: {e}")
